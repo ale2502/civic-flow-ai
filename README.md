@@ -53,7 +53,7 @@ Draft response:
 Thanks for reporting this. I found guidance about urgent hazards on public paths...
 ```
 
-## Portfolio story for interviews
+## Why
 
 I built CivicFlow AI as a practical proof of concept for service operations. It takes unstructured customer requests, retrieves relevant policy context, classifies the request, and drafts a reviewable response. I started with a dependency-light local implementation so the workflow is easy to inspect and test, then designed the project so the retrieval layer can later be swapped for real embeddings and a vector database.
 
