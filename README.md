@@ -1,6 +1,6 @@
 # CivicFlow AI
 
-A personal AI portfolio project focused on practical Python, retrieval, classification, and human-reviewed automation.
+A personal AI portfolio project focused on practical Python, retrieval, classification, and human-reviewed automation. It was created with Codex aiming to sharp my python skills.
 
 ## Project pitch
 
